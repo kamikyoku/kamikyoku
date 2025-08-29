@@ -1,8 +1,11 @@
-## kamikyoku!!!
+## 🌈 kamikyoku!!!
 
 artist and amateur coder. 
 
-## what i do
+## 🌈 what i do
 
-most of the time, i make mascots and other art for open source projects on github or anywhere else. my art style is cute and colorful.
+i find small projects and make mascots. that's it.
 
+## need mascot?
+
+send a mail to leftovertreat (at) gmail (dot) com. 
